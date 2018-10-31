@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/poor-pigs/
+//Important Link: https://leetcode.com/problems/poor-pigs/discuss/94266/Another-explanation-and-solution
 
 class Solution {
 public:
